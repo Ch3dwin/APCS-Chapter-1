@@ -1,8 +1,7 @@
 
-
 package book;
 
-
+//This is another comment added for github
 //********************************************************************
 //  Lincoln.java       Author: Lewis/Loftus/Cocking
 //
